@@ -13,7 +13,7 @@ Se recomienda la lectura del documento para comprender más acerca del problema 
 
 ## Manual de uso para los algoritmos presentados en el Proyecto.
 
-### Para ejecutar todos los algoritmos solamente se utilizan y modifican dos archivos: main.m, y cargarDatos.m.
+### Para ejecutar todos los algoritmos solamente se utilizan y modifican dos archivos: main.m, y cargarDatos.m. Se recuerda que la implementación y ejecución del mismo fue realizada en *Octave*.
 
 ### MAIN.M :
 Es el archivo principal que permite ejecutar todos los algoritmos que se utilizan en el Proyecto:
